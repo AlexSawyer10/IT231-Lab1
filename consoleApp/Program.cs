@@ -15,9 +15,13 @@ class Program
         
         integer2 = int.Parse(Console.ReadLine()!);
         
-       DoAdd(integer1, integer2);
+        DoAdd(integer1, integer2);
+        
+        DoMultiply(integer1,integer2);
+        
+        Console.WriteLine();
     }
-
+    
     public static void DoAdd(int int1, int int2)
     {
         double added = int1 + int2;
@@ -25,5 +29,10 @@ class Program
         Console.WriteLine(added);
     }
     
-    
+    public static void DoMultiply (int int1,int int2)
+    {
+        int multiplied = int1 * int2;
+        
+        Console.WriteLine(multiplied);
+    }
 }
