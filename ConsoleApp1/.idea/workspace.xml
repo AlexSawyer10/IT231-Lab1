@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="856bc861-5f08-44e2-b195-ab51bfb1cdee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../consoleApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../consoleApp/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="856bc861-5f08-44e2-b195-ab51bfb1cdee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,15 +13,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AlexSawyer10/IT231-Lab1",
-    "accountId": "7748c68d-d63b-4f16-89b8-fd61cce2856c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AlexSawyer10/IT231-Lab1&quot;,
+    &quot;accountId&quot;: &quot;7748c68d-d63b-4f16-89b8-fd61cce2856c&quot;
   }
-}]]></component>
+}</component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
