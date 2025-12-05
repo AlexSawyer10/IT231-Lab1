@@ -14,8 +14,15 @@ class Program
         Console.WriteLine("Enter in integer two: ");
         
         integer2 = int.Parse(Console.ReadLine()!);
+
+        doMath(integer1, integer2);
+    }
+
+    public static void doMath (int int1,int int2)
+    {
+        int multiplied = int1 * int2;
         
-        Console.WriteLine(integer1);
-        Console.WriteLine(integer2);
+        Console.WriteLine(multiplied);
     }
 }
+
