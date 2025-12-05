@@ -15,7 +15,13 @@ class Program
         
         integer2 = int.Parse(Console.ReadLine()!);
         
-        Console.WriteLine(integer1);
-        Console.WriteLine(integer2);
+       doMath(integer1, integer2);
+    }
+
+    public static void doMath(int int1, int int2)
+    {
+        double added = int1 + int2;
+        
+        Console.WriteLine(added);
     }
 }
